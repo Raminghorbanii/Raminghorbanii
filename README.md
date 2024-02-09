@@ -32,3 +32,30 @@ Ph.D. researcher with a strong background in Machine Learning and Deep Learning,
 <a href="http://www.github.com/Raminghorbanii"><img src="https://github-readme-stats.vercel.app/api?username=Raminghorbanii&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Raminghorbanii's GitHub stats" /></a>
 
 <a href="http://www.github.com/Raminghorbanii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raminghorbanii&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+
+<p align="left">
+  <a href="https://github.com/Raminghorbanii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Raminghorbanii">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raminghorbanii&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raminghorbanii">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raminghorbanii&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+
+
+
