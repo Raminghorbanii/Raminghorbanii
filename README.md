@@ -36,26 +36,4 @@ Ph.D. researcher with a strong background in Machine Learning and Deep Learning,
 
 
 
-<p align="left">
-  <a href="https://github.com/Raminghorbanii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Raminghorbanii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raminghorbanii&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Raminghorbanii">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raminghorbanii&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-
-
 
