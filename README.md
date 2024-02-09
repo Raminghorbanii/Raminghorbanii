@@ -35,7 +35,7 @@ Ph.D. researcher with a strong background in Machine Learning and Deep Learning,
 <a href="http://www.github.com/Raminghorbanii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raminghorbanii&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Raminghorbanii&theme=transparent&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Raminghorbanii&theme=highcontrast&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 
