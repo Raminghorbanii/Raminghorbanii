@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Machine Learning Researcher
 --------------------------------------------
 
-Ph.D. researcher with a strong background in Machine Learning and Deep Learning, both in theory and application. Skilled in implementing advanced frameworks from scratch to drive performance enhancements. Involved in various projects and collaborations, able to excel both independently and within a team. Eager to apply Data Science practices in addressing real-world challenges of machine learning applications.
+I have a background in Machine Learning and Deep Learning, both in theory and application. Skilled in implementing advanced frameworks from scratch to drive performance enhancements. Involved in various projects and collaborations, able to excel both independently and within a team. Eager to apply Data Science practices in addressing real-world challenges of machine learning applications.
 
 * 🌍  I'm based in Netherlands
 * 🖥️  See my portfolio at [My website](http://https://raminghorbanii.github.io/)
