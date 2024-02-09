@@ -31,12 +31,11 @@ Ph.D. researcher with a strong background in Machine Learning and Deep Learning,
 
 <a href="http://www.github.com/Raminghorbanii"><img src="https://github-readme-stats.vercel.app/api?username=Raminghorbanii&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Raminghorbanii's GitHub stats" /></a>
 
-<a href="http://www.github.com/Raminghorbanii"><img src="https://github-readme-stats.vercel.app/api?username=Raminghorbanii&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_longest_streak=true" alt="Raminghorbanii's GitHub stats" /></a>
-
 
 <a href="http://www.github.com/Raminghorbanii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raminghorbanii&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Raminghorbanii&theme=transparent&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 
