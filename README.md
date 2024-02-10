@@ -7,7 +7,7 @@ Data Scientist | Machine Learning Researcher
 I have a background in Machine Learning and Deep Learning, both in theory and application. Skilled in implementing advanced frameworks from scratch to drive performance enhancements. Involved in various projects and collaborations, able to excel both independently and within a team. Eager to apply Data Science practices in addressing real-world challenges of machine learning applications.
 
 * 🌍  I'm based in Netherlands
-* 🖥️  Know more about me by seeing [My website](http://https://raminghorbanii.github.io/)
+* 🖥️  Know more about me by seeing [My website](https://raminghorbanii.github.io/)
 * ✉️  You can contact me at [R.ghorbani@tudelft.nl](mailto:R.ghorbani@tudelft.nl)
 * 🚀  I'm currently working on a New Evaluation metric for Anomaly Detection in Time Series data!
 * 🧠  I'm learning Generative AI
